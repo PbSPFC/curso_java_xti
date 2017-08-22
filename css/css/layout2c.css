@@ -1,0 +1,27 @@
+div {
+	border:1px solid;
+	border-radius: 10px;
+	margin: 10px 10px 10px 10px;
+	box-shadow: 5px 5px #888888;
+}
+
+#container{
+	
+	width:800px;
+	margin:0 auto;
+}
+
+#header{
+	height:100px;
+}
+#left{
+	float:left;
+	width:170px;
+}
+#right{
+	float:right;
+	width:570px;
+}
+#footer{
+	clear:both;
+}

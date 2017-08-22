@@ -1,0 +1,48 @@
+* {
+	color:#FF0000;
+}
+
+p {
+	color:#000000;
+}
+
+div em{
+	font-family:"Arial";
+}
+
+div > em{
+	text-decoration:underline;
+}
+
+p+ h2{
+	color:00FF00;
+}
+
+
+
+.classe1 {
+	color:#888888;
+	
+}
+
+.fonte1{
+	font-family:"Comic Sans MS";
+}
+
+.classe1:first-letter{
+		font-size:30px !important;
+}
+
+.classe1:first-letter{
+		font-size:40px;
+}
+
+#introducao{
+	background-color:#FFCC33;
+}
+em[title~="Isso"]{
+	color:#444444;
+}
+
+
+

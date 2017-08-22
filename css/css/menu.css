@@ -1,0 +1,22 @@
+ul {
+	padding:0;
+	margin:0;
+	list-style:none;
+	
+}
+li{
+	border:1px solid red;
+	width:120px;
+	padding:5px;
+	position:relative;
+}
+li:hover{
+	background-color:red;
+	color:white;
+}
+li > ul {
+	position:absolute;
+	left:130px;
+	top:-1;
+	color:black;
+}

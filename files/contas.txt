@@ -1,0 +1,5 @@
+Novelli;2400.0
+Peru;2000.0
+Lagarto;1500.0
+Bolha;4000.0
+Fano;700.0

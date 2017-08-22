@@ -1,0 +1,9 @@
+h1, em, p {
+	border:1px solid red;
+}
+
+#intro {
+	position: relative;
+	left: 60px;
+	top: 30px;
+}

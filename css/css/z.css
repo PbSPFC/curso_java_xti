@@ -1,0 +1,21 @@
+h3 {
+	border:5px solid gray;
+}
+div {
+	border:1px solid blue;
+}
+#um{
+	background-color:red;
+	height:300;
+	width:80;
+}
+#dois{
+	background-color:blue;
+	height:200;
+	width:110;
+}
+#tres{
+	background-color:green;
+	height:100;
+	width:150;
+}

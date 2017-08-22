@@ -1,0 +1,36 @@
+div {
+	border:1px solid black;
+}
+
+#container{
+	width:90%;
+	margin:0 auto;
+}
+
+#header{
+	height:100px;
+	background:#DDDDDD;
+}
+#left{
+	float:left;
+	width:18%;
+	background:#EEEEEE;
+}
+#content{
+	float:right;
+	width:80%;
+}
+
+#content > #principal{
+	float:left;
+	width:78%;
+}
+#content > #right{
+	float:right;
+	width:18%;
+}
+
+#footer{
+	clear:both;
+	background:#DDDDDD;
+}

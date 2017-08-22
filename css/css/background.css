@@ -1,0 +1,11 @@
+div{
+	height:320px;
+	width:320px;
+	border:5px solid red;
+	background-color:#6699FF;
+	background-image:url("img/bass.png");
+	background-repeat:no-repeat;
+	background-position:center center;
+	
+	background:#6699FF url("img/bass.png") no-repeat scroll center center;
+}
